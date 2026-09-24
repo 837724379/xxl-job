@@ -6,6 +6,7 @@
 .project
 .DS_Store
 .gitattributes
+**/logs/
 
 # for fontend
 node_modules/
